@@ -1,0 +1,150 @@
+#header{
+  width: auto;
+  height: 120px;
+  }
+#main_picture{
+  height: 464px;
+}
+#top{
+  margin: 30px auto 0px;
+  width : 1000px;
+  height: 500px;
+}
+#top_box{
+  margin-top: 250px;
+  font-weight: bold;
+  background-color: rgba(37, 124, 37, 0.621);
+  padding: 20px;
+  width: 210px;
+  height: 210px;
+}
+
+#box_all{
+  background-color: yellow;
+  margin: auto;
+  width:1000px;
+  height: 500px;
+}
+#footer{
+  background-color: pink;
+  margin:auto;
+  width: 1000px;
+}
+
+.top_left{
+  background-image: url("chef_about.png");
+  float: left;
+  width: 750px;
+  height: 500px;
+}
+.top_right{
+  float: right;
+  width:250px;
+  height:500px;
+}
+
+.box_left{
+  float: left;
+  width: 750px;
+  height: 500px;
+}
+.box_right{
+  font-weight: bold;
+  float: right;
+  padding:20px;
+  width: 210px;
+  height: 460px;
+}
+.box{
+  
+  font-weight: bold;
+  float: left;
+  padding:20px;
+  background-color: rgb(230,128, 67);
+  width: 210px;
+  height: 210px;
+}
+.box:nth-child(odd) {
+  background-color: rgb(108, 95, 77); 
+}
+.f_left{
+  
+  background-color: rgb(122,122,122);
+  width: 750px;
+  height: 40px;
+}
+.f_ul{
+  font-weight: bold;
+  font-size: 13px;
+  padding-top: 10px;
+  text-align: left;
+  
+}
+.f_ul1{
+  margin: 0px;
+  padding-top: 10px;
+}
+.f_ul2{
+  font-weight: bold;
+  font-size: 13px;
+  margin:auto;
+  display: inline;
+}
+.icon_title_text{
+  text-align: center;
+}  
+.icon_box {
+  margin:auto;
+  width: 1240px;
+  height: 190px;
+}
+.icon_box p{  
+  width: 250px;
+  margin:0px;
+  padding: 30px 30px;
+  text-align: center;
+  float: left;
+}
+.chefs{
+  height: 304px;
+  background-color:rgba(234, 231, 231, 0.99);
+}
+.chefs p{
+  margin: 0px;
+  padding-top: 80px;
+  width: 500px;
+  height: 100px;
+}
+.phr{
+  margin: auto;
+  width: 814px;
+  height: 304px;
+}
+a{
+  text-decoration: none;
+}
+.m_ul{
+  margin-top: 0px;
+  text-align: center;
+}
+.m_li{
+  display: inline-block;
+  margin: 27px 60px 0px;
+}
+
+.f_color{
+  color: rgb(230,128, 67);
+  
+}
+.logo{
+  display: inline-block;
+  margin: 0px 100px 0px;
+}
+.etc{
+  
+  color:black;
+}
+.etc:hover{
+  text-decoration:underline;
+  color:red;
+}
